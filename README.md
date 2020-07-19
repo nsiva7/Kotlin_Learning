@@ -1,2 +1,2 @@
 # Kotlin_Learning
-Kotlin Learning Purpose
+Kotlin Learning
